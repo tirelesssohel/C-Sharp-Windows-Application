@@ -1,7 +1,0 @@
-// Here is the direction of how to use this code
-
-1. Create a form like the given sample input output
-2. Name three text box as "textBoxFirstNumber", "textBoxSecondNumber" and "textBoxResult"
-
-3. Name six button as "buttonadd, buttonsub, buttonrem, buttonmul, buttondiv, resetbtn"
-4. Werite the code like shown in the code.cs file
