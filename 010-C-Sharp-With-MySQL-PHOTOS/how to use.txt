@@ -1,0 +1,11 @@
+// Here is how to use this code
+
+1. Create a database on XAMPP local server named "secondtask"
+2. Create a table named "employee" with three field named "id (int), name(varchar), image(BLOB)"
+
+3. Create a windows form like the given sample input output file
+4. Name the data grid view as "dataGridView1"
+5. Create a browse button named "browsebtn"
+
+6. Create save button and name it as "savebtn"
+7. Create two another button named "prevbtn and nextbtn"
