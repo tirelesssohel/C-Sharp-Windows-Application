@@ -1,0 +1,7 @@
+// Here are the steps of how to use the form //
+
+1. Creat a form like the given sample form
+2. Name first two imput field as "textBoxName" and "textBoxAge"
+3. Name two button as "setbtn" and "resetbtn"
+4. Name two output field as "textBoxShowName" and "textBoxShowAge"
+5. Namge two label as "nameLabel" and "ageLabel"
