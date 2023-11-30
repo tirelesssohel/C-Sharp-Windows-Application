@@ -1,0 +1,7 @@
+// Here is the guidelines of how to use this code
+
+1. Create a form like I showed in the "sample input output.png" file
+2. Double Click on each checkbox to track CheckChanged and weite code as I showed in the "code.cs" file
+
+3. First Checked Elements are inside a groupbox where Agree section need not any groupbox.
+4. Write the code which I have written in my case.
