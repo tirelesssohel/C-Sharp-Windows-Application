@@ -1,0 +1,7 @@
+// Here is the direction of how to use this code
+
+1. Create a form like I showed in the sample input output.png file
+2. Give the name of Combo Box as "comboBox1" and input field as "textBox1"
+
+3. Create the required buttons of action
+4. Then add the code for each button which is required.
