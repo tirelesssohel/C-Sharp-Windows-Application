@@ -1,0 +1,11 @@
+// Here is the guidlines of how to use this code
+
+1. Create a form as the "sample input output.png" file
+2. Create two groupbox and radio button for each group
+
+3. Create two submit button
+
+4. Again create two radio button wtihout group box to control the form color.
+5. Create a submit button for this.
+
+6. After that write the code like I showed on "code.cs"
