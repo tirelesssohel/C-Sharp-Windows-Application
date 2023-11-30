@@ -1,0 +1,6 @@
+// Here is the directions of how to use this form
+
+1. Create two form named "Form1 and Form2"
+2. Take two linkLabel named "LinkLabel1 and LinkLabel2"
+
+3. Write the following code
